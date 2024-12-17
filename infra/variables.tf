@@ -1,4 +1,4 @@
-variable "bucketaws-statefile-s3-bucket" {
+variable "bucket_name" {
   type = string
 }
 #
